@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development(React,ThreeJS, NodeJS) and Ios development
 - 🌱 I’m currently learning Backend web technologies like Node and Python
 - 💞️ I’m looking to collaborate on any mobile project!
-- 📫 How to reach me you can contact me via email at razzolate99@gmail.com
+- 📫 Want to reach me? you can contact me via email at razzolate99@gmail.com
 
 <!---
 Razzolate99/Razzolate99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
