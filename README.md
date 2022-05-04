@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Razzolate99 but call me Aaron!
+- 👋 Hi, I’m Aaron!
 - 👀 I’m interested in Web development(React, ThreeJS, NodeJS) and Ios development
 - 🌱 I’m currently learning Backend web technologies like Node and Python
 - 💞️ I’m looking to collaborate on any mobile project!
