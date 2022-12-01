@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaron!
-- 👀 I’m interested in Web development, Specifically with the MERN stack
-- 🌱 I’m currently learning Backend web technologies like Node and Express
+- 👀 I’m interested in Mobile development, Specifically for IOS and Swift!
+- 🌱 I’m currently learning Swift-UI and all of the different frameworks Apple has to offer.
 - 💞️ I’m looking to collaborate on any mobile project!
 - 📫 Want to reach me? you can contact me via email at razzolate99@gmail.com
 
